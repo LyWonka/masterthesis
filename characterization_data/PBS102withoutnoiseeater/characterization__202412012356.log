@@ -1,0 +1,26 @@
+INFO:__main__:Operator: Charly
+INFO:__main__:Timestamp: 202412012356
+INFO:__main__:Data from Timestamp: 202411081636
+INFO:__main__:Isolator: PBS102withoutnoiseeater
+INFO:__main__:Chosen wavelength: 689
+INFO:__main__:Justage des Analysators auf maximalen Durchlass
+INFO:__main__:min fitted position: 162.5221229835793, min measured position: 342.9991760253906
+INFO:__main__:Minimum Power without isolator: 9.422170477e-05
+INFO:__main__:powermeter ref value: 0.0008382260565999999, powermeter path2 value: 0.0039518245490000005, Faktor: 4.714509311520728
+INFO:__main__:Design Orientation
+INFO:__main__:position: 178.01758038556133, power: 0.003336294834
+INFO:__main__:Isolation
+INFO:__main__:Isolation min: -0.3153007775652695, Power ref: 0.0008382260565999999, Verhältnis Iso: 0.9299721058232271
+INFO:__main__:Iso design orientation: 1.1051613754032665, iso1: 0.9297273982736343, iso2:1.1051613754032665 ,Isolation design orientation: 0.43425698229317083 , Power ref do1:0.0007554080222,  Power ref do2:0.0007584648497999999
+INFO:root:insertion loss:16.683132200622946
+INFO:root:insertion loss1: 0.31458486116850204, insertion loss2: 16.683132200622946, pref1 = 0.0007668456820999999,pref2 = 0.0007583540222999999, power2_1 = 0.003362683464, power2_2 = 7.673531361e-05
+INFO:root:Transmission at design orientation: 0.9301254204946254, Power ref: 0.0007668456820999999
+INFO:__main__:Transmission
+INFO:__main__:measured min values: {177.99957275390625: 0.02092335580619328, 357.9991455078125: 0.021446028755070828}, measured max values: {267.9993896484375: 0.9312071898206381, 87.99981689453125: 0.9254024939107804}, error: [0.00018310546875, 359.99932861328125]
+INFO:__main__:fitted min values: 178.37789449605856
+INFO:__main__: Transmission Max: 0.9312071898206381, Delta T: 0.9988383151055555, Power ref: 0.0007668456820999999
+INFO:__main__:PER
+INFO:__main__:min values: {251.9993896484375: 0.0010718554443477815, 71.99984741210938: 0.0010836193008656242}, max values: {162.99957275390625: 0.0985994513032784, 151.9996337890625: 0.09584375117785378}, error: [178.99981689453125, 10.000213623046875]
+INFO:__main__:fitted min values: 252.2516535089777
+INFO:__main__:PER: 19.637382799054933
+INFO:__main__:delta_pos: 90.52227557146992, delta_pow: 35.40898397183607

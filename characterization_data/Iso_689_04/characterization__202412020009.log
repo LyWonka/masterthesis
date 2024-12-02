@@ -1,0 +1,23 @@
+INFO:__main__:Operator: Charly
+INFO:__main__:Timestamp: 202412020009
+INFO:__main__:Data from Timestamp: 202411051848
+INFO:__main__:Isolator: 689-04
+INFO:__main__:Chosen wavelength: 689
+INFO:__main__:Justage des Analysators auf maximalen Durchlass
+INFO:__main__:min fitted position: 120.36006447120948, min measured position: 119.99970245361328
+INFO:__main__:Minimum Power without isolator: 0.0003743567795
+INFO:__main__:powermeter ref value: 0.00048277647579999996, powermeter path2 value: 0.0012415029810000002, Faktor: 2.5715896346082907
+INFO:__main__:Isolation
+INFO:__main__:Isolation min: -19.68406579430881, Power ref: 0.00048277647579999996, Verhältnis Iso: 0.01075457915985155
+INFO:__main__:Iso design orientation: 1.0, iso1: 1.0, iso2:1.0 ,Isolation design orientation: 0.0 , Power ref do1:0.0004836722628,  Power ref do2:0.0004817236857
+INFO:root:insertion loss:8.8193378216649
+INFO:root:insertion loss1: 3.1742290233019332, insertion loss2: 8.8193378216649, pref1 = 0.00047928330599999997,pref2 = 0.0004758201335, power2_1 = 0.0005934321437, power2_2 = 0.0001605871161
+INFO:root:Transmission at design orientation: 0.4814787204157313, Power ref: 0.00047928330599999997
+INFO:__main__:Transmission
+INFO:__main__:measured min values: {174.99957275390625: 0.04711245718640715, 163.99951171875: 0.0713691064079427}, measured max values: {94.99969482421876: 0.5083000545740676, 278.999267578125: 0.4936974930762538}, error: [169.9998779296875, -24.999755859375]
+INFO:__main__:fitted min values: 2.162156296921922
+INFO:__main__: Transmission Max: 0.5083000545740676, Delta T: 0.9472332652397385, Power ref: 0.00047928330599999997
+INFO:__main__:PER
+INFO:__main__:min values: {225.9993896484375: 0.0007198614506612912, 45.9998779296875: 0.0007594168627370397}, max values: {136.99969482421875: 0.2971585918572431, 317.99920654296875: 0.2966332018154551}, error: [178.99969482421875, -181.99932861328125]
+INFO:__main__:fitted min values: 225.94540964304147
+INFO:__main__:PER: 26.157393744342535
